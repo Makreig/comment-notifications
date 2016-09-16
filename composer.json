@@ -1,5 +1,5 @@
 {
-	"name": "silverstripe/comment-notifications",
+	"name": "Makreig/comment-notifications",
 	"description": "Provides email notifications for visitor comments",
 	"type": "silverstripe-module",
 	"license": "BSD-3-Clause",
